@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+#### I'm a French Developer & Computer Scicence Student.
+
+### Now :
+- ✨ Updating & Improving my Game Engine : [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator)
 
 <!--
 **yami2200/yami2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
