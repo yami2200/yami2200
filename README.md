@@ -12,12 +12,13 @@
 ## Repositories :
 
 ### 🥼 Projects :
-| Project                                                                | Tech & Languages               | Team ?                 |
-|------------------------------------------------------------------------|--------------------------------|------------------------|
-| [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator) | JS, VueJS, Vuetify, ElectronJs | <center> 🧑  </center> |
-| [Blindtest Website](https://github.com/yami2200/animeblindtest)        | JS, VueJS, Firebase            | <center> 🧑  </center> |
-| [Renergie](https://github.com/Renergie-app)                            | JS, VueJS, GraphQL             | <center> 👪  </center> |
-| [Resource Pack Creator](https://www.youtube.com/watch?v=tg6_uArWw_Y)   | C++, Qt                        | <center> 🧑  </center> |
+| Project                                                                            | Tech & Languages               | Team ?                 |
+|------------------------------------------------------------------------------------|--------------------------------|------------------------|
+| [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator)             | JS, VueJS, Vuetify, ElectronJs | <center> 🧑  </center> |
+| [Blindtest Website](https://github.com/yami2200/animeblindtest)                    | JS, VueJS, Firebase            | <center> 🧑  </center> |
+| [Renergie](https://github.com/Renergie-app)                                        | JS, VueJS, GraphQL             | <center> 👪  </center> |
+| [Resource Pack Creator](https://www.youtube.com/watch?v=tg6_uArWw_Y)               | C++, Qt                        | <center> 🧑  </center> |
+| [Pong Game on Oscilloscope](https://github.com/yami2200/pong-arduino-oscilloscope) | C++, Arduino, Electronics      | <center> 👪 </center>  |
 
 ### 🎮 Video Games :
 | Game                                                                      | Tech & Languages & Tools               | Team ?                 |
