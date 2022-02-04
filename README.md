@@ -23,7 +23,7 @@
 ### 🎮 Video Games :
 | Game                                                                      | Tech & Languages & Tools               | Team ?                 |
 |---------------------------------------------------------------------------|----------------------------------------|------------------------|
-| [FIre Emergency](https://yami2200.itch.io/fire-emergency)                 | Unreal Engine 4, Blender               | <center> 🧑  </center> |
+| [Fire Emergency](https://yami2200.itch.io/fire-emergency)                 | Unreal Engine 4, Blender               | <center> 🧑  </center> |
 | [Horror Baby VR](https://www.youtube.com/watch?v=PZwnq6_IW3g)             | Unreal Engine 4, Blender, VR           | <center> 🧑  </center> |
 | [Vikings Arena](https://www.youtube.com/watch?v=jWPfQKVmT_U)              | Unreal Engine 4, Blender               | <center> 🧑  </center> |
 | [48h Tower](https://yami2200.itch.io/48h-tower)                           | Unreal Engine 4, Blender, Magica Voxel | <center> 👪  </center> |
