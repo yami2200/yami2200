@@ -3,11 +3,8 @@
 #### I'm a French Computer Science Student.
 #### Don't hesitate to visit my [portfolio website](https://www.romainbriend.com/) to learn more about me... :)
 
-### Now :
-- ✨ Updating & Improving my Game Engine : [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator).
-- 🎶 Planning to add more Categories & Music to my [Blindtest website](https://github.com/yami2200/animeblindtest).
-- 📐 Learning Rust with Algorithm problems.
-- 🔍 Looking for an internship for 2022 summer.
+## Now :
+- 🎮 Planning a next ambitious video game on Unreal Engine 5.
 
 ## Repositories :
 
@@ -23,6 +20,7 @@
 ### 🎮 Video Games :
 | Game                                                                      | Tech & Languages & Tools               | Team ?                 |
 |---------------------------------------------------------------------------|----------------------------------------|------------------------|
+| [Untitled Aventure Game](https://github.com/Fgdou/ProjProg2022)           | C++, SDL2                              | <center> 👪  </center> |
 | [FIre Emergency](https://yami2200.itch.io/fire-emergency)                 | Unreal Engine 4, Blender               | <center> 🧑  </center> |
 | [Horror Baby VR](https://www.youtube.com/watch?v=PZwnq6_IW3g)             | Unreal Engine 4, Blender, VR           | <center> 🧑  </center> |
 | [Vikings Arena](https://www.youtube.com/watch?v=jWPfQKVmT_U)              | Unreal Engine 4, Blender               | <center> 🧑  </center> |
