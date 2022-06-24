@@ -4,7 +4,8 @@
 #### Don't hesitate to visit my [portfolio website](https://www.romainbriend.com/) to learn more about me... :)
 
 ## Now :
-- 🎮 Planning a next ambitious video game on Unreal Engine 5.
+- Intern in [DiverSE IRISA's team](https://www.diverse-team.fr/), working on [Polyglot AST](https://github.com/yami2200/PolyglotAST) implementation in Java.
+- 🎮 Working on a next ambitious video game on Unreal Engine 5.
 
 ## Repositories :
 
