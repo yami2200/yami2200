@@ -3,20 +3,17 @@
 #### I'm a French Computer Science Student.
 #### Don't hesitate to visit my [portfolio website](https://www.romainbriend.com/) to learn more about me... :)
 
-## Now :
-- Intern in [DiverSE IRISA's team](https://www.diverse-team.fr/), working on [Polyglot AST](https://github.com/yami2200/PolyglotAST) implementation in Java.
-- 🎮 Working on a next ambitious video game on Unreal Engine 5.
-
 ## Repositories :
 
 ### 🥼 Projects :
-| Project                                                                            | Tech & Languages               | Team ?                 |
-|------------------------------------------------------------------------------------|--------------------------------|------------------------|
-| [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator)             | JS, VueJS, Vuetify, ElectronJs | <center> 🧑  </center> |
-| [Blindtest Website](https://github.com/yami2200/animeblindtest)                    | JS, VueJS, Firebase            | <center> 🧑  </center> |
-| [Renergie](https://github.com/Renergie-app)                                        | JS, VueJS, GraphQL             | <center> 👪  </center> |
-| [Resource Pack Creator](https://www.youtube.com/watch?v=tg6_uArWw_Y)               | C++, Qt                        | <center> 🧑  </center> |
-| [Pong Game on Oscilloscope](https://github.com/yami2200/pong-arduino-oscilloscope) | C++, Arduino, Electronics      | <center> 👪 </center>  |
+| Project                                                                                    | Tech & Languages               | Team ?                 |
+|--------------------------------------------------------------------------------------------|--------------------------------|------------------------|
+| [Polyglot Language Server Prototype](https://github.com/yami2200/polyglot-language-server) | Java, GraalVM                  | <center> 🧑  </center> |
+| [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator)                     | JS, VueJS, Vuetify, ElectronJs | <center> 🧑  </center> |
+| [Blindtest Website](https://github.com/yami2200/animeblindtest)                            | JS, VueJS, Firebase            | <center> 🧑  </center> |
+| [Renergie](https://github.com/Renergie-app)                                                | JS, VueJS, GraphQL             | <center> 👪  </center> |
+| [Resource Pack Creator](https://www.youtube.com/watch?v=tg6_uArWw_Y)                       | C++, Qt                        | <center> 🧑  </center> |
+| [Pong Game on Oscilloscope](https://github.com/yami2200/pong-arduino-oscilloscope)         | C++, Arduino, Electronics      | <center> 👪 </center>  |
 
 ### 🎮 Video Games :
 | Game                                                                      | Tech & Languages & Tools               | Team ?                 |
