@@ -8,7 +8,7 @@
 ### 🥼 Projects :
 | Project                                                                                    | Tech & Languages               | Team ?                 |
 |--------------------------------------------------------------------------------------------|--------------------------------|------------------------|
-| [Polyglot Language Server Prototype](https://github.com/yami2200/polyglot-language-server) | Java, GraalVM                  | <center> 🧑  </center> |
+| [Polyglot Language Server Prototype](https://github.com/yami2200/polyglot-language-server) | Java, GraalVM, LSP             | <center> 🧑  </center> |
 | [Visual Novel Creator](https://github.com/yami2200/visualnovelcreator)                     | JS, VueJS, Vuetify, ElectronJs | <center> 🧑  </center> |
 | [Blindtest Website](https://github.com/yami2200/animeblindtest)                            | JS, VueJS, Firebase            | <center> 🧑  </center> |
 | [Renergie](https://github.com/Renergie-app)                                                | JS, VueJS, GraphQL             | <center> 👪  </center> |
