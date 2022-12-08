@@ -3,6 +3,7 @@
 #### I'm a French Computer Science Student.
 #### Don't hesitate to visit my [portfolio website](https://www.romainbriend.com/) to learn more about me... :)
 
+![Yami2200's GitHub stats](https://github-readme-stats.vercel.app/api?username=yami2200&show_icons=true&theme=transparent)
 ## Repositories :
 
 ### 🥼 Projects :
