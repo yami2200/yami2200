@@ -24,7 +24,7 @@
 | [Thumbthing's wrong](https://github.com/yami2200/thumbthings-wrong)       | Unreal Engine 5, Websocket, Magica Voxel | <center> 👪  </center> | 🥇 1st / 9     |
 | [Bounce and slice](https://github.com/Fgdou/ProjProg2022)                 | C++, SDL2                                | <center> 👪  </center> |                |
 | [FIre Emergency](https://yami2200.itch.io/fire-emergency)                 | Unreal Engine 4, Blender                 | <center> 🧑  </center> | 🏅 ??? / 5295  |
-| Ghost's Aventure                                                          | Unreal Engine 4                          | <center> 🧑  </center> | 🥇 1st / 8     |
+| Ghost's Aventure                                                          | Unreal Engine 4                          | <center> 👪  </center> | 🥇 1st / 8     |
 | [Horror Baby VR](https://www.youtube.com/watch?v=PZwnq6_IW3g)             | Unreal Engine 4, Blender, VR             | <center> 🧑  </center> |                |
 | [Vikings Arena](https://www.youtube.com/watch?v=jWPfQKVmT_U)              | Unreal Engine 4, Blender                 | <center> 🧑  </center> |                |
 | [48h Tower](https://yami2200.itch.io/48h-tower)                           | Unreal Engine 4, Blender, Magica Voxel   | <center> 👪  </center> | 🏅 110th / 177 |
