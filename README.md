@@ -9,6 +9,7 @@
 ### 🥼 Projects :
 | Project                                                                                    | Tech & Languages                                                                 | Team ?                 |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------|
+| [Rascal Debug Adapter](https://github.com/yami2200/rascal-language-servers/tree/debug)     | Java, TypeScript, Debug Adapter Protocol                                         | <center> 👪  </center> |
 | [MicroServices Architecture WebApplication](https://github.com/pixselve-school/projet-al)  | Docker, Quarkus, Angular, NestJS, Postgres, Prometheus, Grafana, Nginx, RabbitMQ | <center> 👪  </center> |
 | [WhileC language Compiler](https://github.com/CodyAdam/Whilec)                             | Java, Antlr                                                                      | <center> 👪  </center> |
 | [Polyglot Language Server Prototype](https://github.com/yami2200/polyglot-language-server) | Java, GraalVM, LSP                                                               | <center> 🧑  </center> |
